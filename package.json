@@ -1,0 +1,33 @@
+{
+  "name": "react-redux-starter",
+  "version": "1.0.0",
+  "description": "starter with redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelfire529/react-redux-starter.git"
+  },
+  "author": "J.B.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelfire529/react-redux-starter/issues"
+  },
+  "homepage": "https://github.com/angelfire529/react-redux-starter#readme",
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-redux": "^5.0.7",
+    "react-router": "^4.3.1",
+    "react-router-redux": "^4.0.8",
+    "redux": "^4.0.0",
+    "redux-thunk": "^2.3.0",
+    "toastr": "^2.1.4"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3"
+  }
+}
